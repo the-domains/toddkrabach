@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3276596
+color:
+  saturation: 0.3801417
+  lightness: 0.4800093
+  brandStrength: 0.6234043
+  brandColors:
+    - '#A29A92'
+    - '#1E1817'
+    - '#28416E'
+    - '#802639'
+    - '#775C80'
+  rhythmicContrast: 0.07612232
+name: toddkrabach
